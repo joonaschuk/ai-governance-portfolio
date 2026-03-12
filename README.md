@@ -1,19 +1,27 @@
-# AI & Data Governance Portfolio
+# AI Governance & Data Protection Portfolio
 
-> **From databases to policy** — bridging technical expertise with regulatory knowledge
+> **From databases to policy** — bridging technical expertise with regulatory knowledge with a pinch of impostor syndrome
+
+## 📖 What is this portfolio?
+ 
+This is kind of a **learning-in-public portfolio** so I'm trying to build and share the content as I study these topics myself, rather than after the fact.
+ 
+The goal is twofold: to deepen my own understanding of these topics, and to demonstrate that I can translate complex legal and technical topics into clear, accessible language. Each document is written for a general audience so no law degree required to follow along.
+ 
+If you are a recruiter, a colleague, or simply someone curious about these topics, you are welcome to explore and use anything here freely.
 
 ---
 
 ## 👤 About Me
 
-I am a Finnish IT professional hoping to transition from technical roles into **AI Governance, data protection and privacy compliance**.
+I am an IT professional hoping to transition from technical roles into **AI Governance, data protection and privacy compliance**.
 
 My background is intentionally cross-disciplinary:
 
-- **Technical foundation** — Bachelor of Business Administration (BBA) in Information Technology, XAMK. Currently working as a **Database Administrator (DBA) at Kela (Social Insurance Institution of Finland)** since 2021, with prior experience as a case worker or solutions specialist in social benefit processing (2019–2021).
+- **Technical foundation** — Bachelor of Business Administration (BBA) in Information Technology, XAMK. Currently working as a **Database Administrator at Kela (Social Insurance Institution of Finland)** since 2021, with prior experience as a case worker or solutions specialist in social benefit processing (2019–2021).
 - **Legal & regulatory studies** — Currently completing a **Master's degree in Technology Law (YAMK)** at Laurea University of Applied Sciences, focusing on emerging regulation, AI ethics, and compliance frameworks.
 
-This combination — hands-on experience with large-scale databases handling sensitive personal data, combined with formal legal-technical education — gives me a practical perspective on data governance that bridges the gap between IT teams and compliance functions.
+This combination with hands-on experience with large-scale databases handling sensitive personal data, combined with formal legal-technical education gives me a practical perspective on data governance that bridges the gap between IT teams and compliance functions.
 
 ---
 
@@ -30,29 +38,27 @@ This combination — hands-on experience with large-scale databases handling sen
 
 ## 📁 Repository Structure
 
-```
-📂 gdpr-and-data-protection/
-    ├── key-concepts-and-principles.md       ← GDPR fundamentals & the 7 principles
-    ├── data-subject-rights-overview.md      ← Rights framework & practical implications
-    ├── controller-processor-analysis.md     ← Roles, responsibilities, and liability
-    ├── dpia-template.md                     ← Data Protection Impact Assessment template
-    └── personal-data-register-template.md  ← Records of Processing Activities (RoPA)
+📂 **GDPR And Data Protection/**
+- [Key concepts and principles](./gdpr-and-data-protection/key-concepts-and-principles.md) — GDPR fundamentals & the 7 principles
+- Data subject rights overview — Rights framework & practical implications
+- Controller vs Processor — Roles, responsibilities, and liability
+- DPIA template — Data Protection Impact Assessment template
+- Personal data register template — Records of Processing Activities (RoPA)
 
-📂 eu-ai-act/
-    ├── risk-classification-framework.md     ← Prohibited / High-risk / Limited / Minimal
-    ├── high-risk-ai-public-sector.md        ← Focus: social benefit & welfare systems
-    └── conformity-assessment-overview.md   ← Requirements for high-risk AI providers
+📂 **EU AI Act/**
+- Risk classification framework — Prohibited / High-risk / Limited / Minimal
+- High risk AI in public sector — Focus: social benefit & welfare systems
+- Conformity assessments — Requirements for high-risk AI providers
 
-📂 ai-governance-frameworks/
-    ├── framework-comparison.md             ← EU AI Act vs. OECD vs. ISO 42001
-    └── governance-roles-and-structures.md  ← DPO, AI Officer, governance board models
+📂 **AI Governance Frameworks/**
+- Framework compariston — EU AI Act vs. OECD vs. ISO 42001
+- Governance roles and structures — DPO, AI Officer, governance board models
 
-📂 case-studies/
-    └── automated-decisions-in-social-security.md  ← Hypothetical analysis, public sector context
+📂 **Case Studies/**
+- Automated decisions in social security — Hypothetical analysis, public sector context
 
-📂 resources/
-    └── recommended-reading.md             ← Key legislation, reports, and learning materials
-```
+📂 **Resources/**
+- Recommended reading — Key legislation, reports, and learning materials
 
 ---
 
