@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-governance-portfolio/eu-ai-act-classifier/static/css/main.50ad1ed4.css",
+    "main.js": "/ai-governance-portfolio/eu-ai-act-classifier/static/js/main.8ca9c4f3.js",
+    "index.html": "/ai-governance-portfolio/eu-ai-act-classifier/index.html",
+    "main.50ad1ed4.css.map": "/ai-governance-portfolio/eu-ai-act-classifier/static/css/main.50ad1ed4.css.map",
+    "main.8ca9c4f3.js.map": "/ai-governance-portfolio/eu-ai-act-classifier/static/js/main.8ca9c4f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ad1ed4.css",
+    "static/js/main.8ca9c4f3.js"
+  ]
+}
