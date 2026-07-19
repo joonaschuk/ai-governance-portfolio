@@ -11,6 +11,7 @@ const translations = {
     selectAll: "Select all that apply",
     noneOfAbove: "None of the above",
     lang: "Suomeksi",
+    builtBy: "Built by",
   },
   fi: {
     title: "EU AI Act -luokittelija",
@@ -24,6 +25,7 @@ const translations = {
     selectAll: "Valitse kaikki sopivat",
     noneOfAbove: "Ei mikään yllä olevista",
     lang: "In English",
+    builtBy: "Tehnyt:",
   },
 };
 

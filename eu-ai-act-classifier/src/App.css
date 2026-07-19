@@ -268,6 +268,23 @@ body {
   background-color: #002277;
 }
 
+/* Byline on start screen */
+.app-byline {
+  margin-top: 28px;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+.app-byline a {
+  color: #003399;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.app-byline a:hover {
+  text-decoration: underline;
+}
+
 /* Footer */
 .app-footer {
   background: #2c3e50;
@@ -276,4 +293,25 @@ body {
   padding: 16px 24px;
   font-size: 0.82rem;
   line-height: 1.5;
+}
+
+.footer-credit {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.footer-credit a {
+  color: #9db8ff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.footer-credit a:hover {
+  color: #c3d4ff;
+  text-decoration: underline;
+}
+
+.footer-disclaimer {
+  color: #aaa;
 }
